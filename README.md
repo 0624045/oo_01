@@ -17,7 +17,7 @@
 
 <https://www.nkust.edu.tw/index.php>
 
-| First | Secpmd | Third|
+| First | Second | Third|
 |:------|:------:|-----:|
 |1 | 2 | 3  |
 |1 | 2 | 3  |
