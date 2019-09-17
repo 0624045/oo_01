@@ -16,3 +16,14 @@
 [高科大](https://www.nkust.edu.tw/index.php)
 
 <https://www.nkust.edu.tw/index.php>
+
+| First | Secpmd | Third|
+|:------|:------:|-----:|
+|1 | 2 | 3  |
+|1 | 2 | 3  |
+
+:smile:
+
+:cry:
+
+:+1:
