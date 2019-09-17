@@ -24,6 +24,6 @@
 
 :smile:
 
-:cry:
+:sunflower:
 
 :+1:
