@@ -33,6 +33,11 @@ System.out.println("area="base*height/2);
 }
 }
 
+public String toString()
+{
+return rect,tri;
+}
+
 public class hw20191126
 {
   public static void main(String args[])
